@@ -1,5 +1,5 @@
 # Check the project here
-(https://react-api-unsplash-images.netlify.app/)
+https://react-api-unsplash-images.netlify.app/
 
 # Getting Started with Create React App
 
